@@ -1,2 +1,2 @@
 # Naive-Bayes-Classifier
-Artificial Intelligence course
+Artificial Intelligence, CA3
